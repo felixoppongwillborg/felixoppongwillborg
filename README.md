@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on becoming a Full Stack Developer.
+- 🌱 I’m currently learning JavaScript, React, React Native, Ruby on Rails.
+- 📫 How to reach me: fwlixw@gmail.com
 <!--
 **felixoppongwillborg/felixoppongwillborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
