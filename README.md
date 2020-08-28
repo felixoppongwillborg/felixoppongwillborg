@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on becoming a Full Stack Developer.
 - 🌱 I’m currently learning JavaScript, React, React Native, Ruby on Rails.
 - 📫 How to reach me: fwlixw@gmail.com
+
+
+[![Felix's github stats](https://github-readme-stats.vercel.app/api?username=felixoppongwillborg)](https://github.com/felixoppongwillborg/github-readme-stats)
 <!--
 **felixoppongwillborg/felixoppongwillborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
