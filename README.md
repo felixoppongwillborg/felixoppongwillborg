@@ -17,7 +17,7 @@ CI(SEMAPHORE) | CD(Netlify & Heroku ...)
 <img align="left" alt="Rails" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
  <img align="left" alt="NodeJS" width="25px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/><br /> <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixopongwillborg&layout=compact&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixoppongwillborg&layout=compact&theme=tokyonight&langs_count=6)
 <!--
 **felixoppongwillborg/felixoppongwillborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
